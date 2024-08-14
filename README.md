@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a **Software Engineer** with a strong passion for **Front-End Development**. I specialize in crafting engaging and interactive user interfaces using modern web technologies. My focus is on delivering seamless user experiences through clean and efficient code.
+
 <div align="center">
 
   ![Henryrivardo07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryrivardo07&show_icons=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8&text_bold=true&text_color=00ADD8&disable_animations=true&border_radius=10&border_color=808080)
